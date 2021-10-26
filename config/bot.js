@@ -1,9 +1,9 @@
 module.exports = {
     emojis: {
         off: ':x:',
-        error: '',
+        error: ':bomb:',
         queue: ':bar_chart:',
-        music: '🎧',
+        music: ':headphones:',
         success: ':white_check_mark:',
     },
 
