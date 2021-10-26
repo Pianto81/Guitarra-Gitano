@@ -1,9 +1,9 @@
 module.exports = {
     emojis: {
         off: ':x:',
-        error: '<:Fuckyou:822821006468186122>',
+        error: '',
         queue: ':bar_chart:',
-        music: '<:coinc:829412222341087262>',
+        music: '🎧',
         success: ':white_check_mark:',
     },
 
